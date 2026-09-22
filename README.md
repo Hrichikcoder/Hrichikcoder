@@ -1,5 +1,5 @@
 # 🌟 Hey, I'm **Hrichik Khandait**
-**AI/ML Engineer | IoT Enthusiast | Data Science Student @ IIT Madras (BS) & IEM Kolkata (B.Tech CSE-AI)**  
+**AI/ML Engineer | IoT Enthusiast |  IEM Kolkata (B.Tech CSE-AI)**  
 
 I’m passionate about building intelligent systems that blend **Machine Learning, IoT, and real-world engineering**.  
 I enjoy working across the full spectrum—from algorithms and data pipelines to hardware integration, deployments, and interactive dashboards.
